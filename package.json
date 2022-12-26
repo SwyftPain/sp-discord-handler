@@ -1,6 +1,6 @@
 {
   "name": "sp-discord-handler",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "ESM discord handler",
   "main": "install.mjs",
   "type": "module",
