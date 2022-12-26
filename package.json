@@ -6,7 +6,7 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "https://github.com/USERNAME/REPOSITORY.git"
+    "url": "https://github.com/SwyftPain/sp-discord-handler.git"
   },
   "bin": {
     "sp-discord-handler": "index.mjs"
