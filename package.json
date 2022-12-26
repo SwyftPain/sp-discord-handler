@@ -1,0 +1,27 @@
+{
+  "name": "sp-discord-handler",
+  "version": "1.0.0",
+  "description": "ESM discord handler",
+  "main": "index.mjs",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/USERNAME/REPOSITORY.git"
+  },
+  "bin": {
+    "sp-discord-handler": "index.mjs"
+  },
+  "scripts": {
+    "start": "nodemon index.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.20",
+    "sp-easyembed": "^1.0.6"
+  }
+}
