@@ -1,15 +1,15 @@
 {
   "name": "sp-discord-handler",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ESM discord handler",
-  "main": "index.mjs",
+  "main": "install.mjs",
   "type": "module",
   "repository": {
     "type": "git",
     "url": "https://github.com/SwyftPain/sp-discord-handler.git"
   },
   "bin": {
-    "sp-discord-handler": "index.mjs"
+    "sp-discord-handler": "install.mjs"
   },
   "scripts": {
     "start": "nodemon index.mjs",
