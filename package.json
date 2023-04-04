@@ -22,7 +22,7 @@
     "child_process": "^1.0.2",
     "discord.js": "^14.7.1",
     "dotenv": "^16.0.3",
-    "nodemon": "^2.0.20",
+    "nodemon": "^2.0.21",
     "sp-easyembed": "^1.0.6"
   }
 }
