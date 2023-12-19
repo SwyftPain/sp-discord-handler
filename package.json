@@ -20,7 +20,7 @@
   "license": "ISC",
   "dependencies": {
     "child_process": "^1.0.2",
-    "discord.js": "^14.7.1",
+    "discord.js": "^14.8.0",
     "dotenv": "^16.0.3",
     "nodemon": "^2.0.20",
     "sp-easyembed": "^1.0.6"
